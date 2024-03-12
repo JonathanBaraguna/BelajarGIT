@@ -1,3 +1,14 @@
+## Belajar Git
+- Tugas-git
+- Tugas-html
+- Tugas-css
+- Tugas-js
+- Tugas-MidProject
+- Tugas-php
+- Tugas-finalProject
+
+
+
 ## Daftar Perintah Git
 
 - git clone: untuk mengklonkan repository dari remote ke lokal.
